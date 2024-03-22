@@ -1,7 +1,7 @@
 
 # QR Generator
 
-Code snippet which inputs data and generates a QR code and outputs a SVG file.
+Code snippet which inputs data, generates a QR code and outputs it to a SVG file. Uses Nayuki's QR Code generator libs.
 
 
 
